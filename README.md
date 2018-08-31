@@ -9,5 +9,11 @@ Inspired by Alien Invasion and League of Legends, I developed this Teemo theme, 
 ******************************************************************************************************************************
 
             
-                   To play the game, you can download all of the files and execute "game.py" to start!
+                                             To play the game, 
+                            
+                                       Download all of the files
+                 
+                             Execute "game.py" on a Python Programming Environment
+                            
+                                                 AND ENJOY! :)
             
