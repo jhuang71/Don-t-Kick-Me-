@@ -1,6 +1,6 @@
 ******************************************************************************************************************************
 
-                                              Don't Kick Me!
+                                                  Don't Kick Me!
 
 ******************************************************************************************************************************
 
@@ -9,11 +9,11 @@
 ******************************************************************************************************************************
 
             
-                                             To play the game, 
+                                               To play the game, 
                             
-                                          Download all of the files
+                                            Download all of the files
                  
-                             Execute "game.py" on a Python Programming Environment
+                              Execute "game.py" on a Python Programming Environment
                             
                                                 AND ENJOY! :)
             
